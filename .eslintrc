@@ -10,7 +10,7 @@
     "prettier/prettier": [
       "error",
       {
-        "semi": false
+        "usePrettierrc": true
       }
     ]
   }
